@@ -34,7 +34,7 @@ Tested without human intervention on 185 *Euclid* Quick Data Release (Q1) grade-
 
 Beyond autonomous CLI runs for single lenses or large survey samples, **Lens-Orchestra** also provides an interactive Web UI (developed by Yunlong Yin) built on the same agent-driven modeling pipeline. Because every modeling stage preserves its intermediate products, settings, and diagnostic records, researchers can visually inspect masks, fits, and residuals in the browser, ask the agent in natural language to explain its configuration and diagnostic decisions, and instruct it to revise settings (such as contaminant or arc masks) before resuming downstream physical fits from that stage. This allows Lens-Orchestra to serve both as a hands-off survey pipeline and as an interactive co-scientist for complex lens systems.
 
-<!-- After pushing to GitHub, edit README.md on GitHub and drag-and-drop materials/videos/lens_orchestra_interactive_ui.mp4 here to replace this comment with the auto-generated https://github.com/user-attachments/assets/... URL for GitHub's native inline video player. -->
+https://github.com/user-attachments/assets/c3bf5a1d-f9b5-4650-8a69-59ac453f29e4
 
 *Demo video (2 min 29 s): [Download MP4 (6.4 MB)](materials/videos/lens_orchestra_interactive_ui.mp4).*
 
